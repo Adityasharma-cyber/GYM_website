@@ -55,9 +55,15 @@ Add workout and diet management features.
 
 This project helped me practice frontend web development, responsive design, JavaScript basics, and using Git and GitHub for version control.
 
+## Live demo
+
+https://adityasharma-cyber.github.io/GYM_website/
+
 ## Author
 
 Aditya Sharma
+<br>
+github - https://github.com/Adityasharma-cyber
 <br>
 Learning Web Development and Cybersecurity
 
